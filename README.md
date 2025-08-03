@@ -7,6 +7,11 @@
 
 ---
 
+## 📸 Screenshots
+<img width="1800" height="760" alt="Image" src="https://github.com/user-attachments/assets/665f8f39-e75e-4d82-9c98-32f37e92ab0d" />
+
+---
+
 ## 🛠️ Tools & Technologies
 - WordPress CMS
 - Elementor Page Builder
@@ -24,7 +29,3 @@
 - No-code setup using Elementor widgets
 - About, Contact, and Product Category Pages
 - Branding focus for a real-world client experience
-
----
-
-## 📸 Screenshots
