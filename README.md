@@ -7,8 +7,10 @@
 
 ---
 
-## 📸 Screenshots
+## Responsive Website
 <img width="1800" height="760" alt="Image" src="https://github.com/user-attachments/assets/665f8f39-e75e-4d82-9c98-32f37e92ab0d" />
+
+## 📸 Screenshots - About Us Page
 
 ---
 
